@@ -1,4 +1,4 @@
-package Tema;
+package Ex1;
 
 public class BookstoreCheck {
     public static boolean isDuplicate(Book book1, Book book2) {

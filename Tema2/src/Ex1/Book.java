@@ -1,4 +1,4 @@
-package Tema;
+package Ex1;
 
 public class Book {
     String title;
